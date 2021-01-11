@@ -1,2 +1,2 @@
 # lbm
-acopmanhamento ligiabonilha
+acompanhamento ligiabonilha
